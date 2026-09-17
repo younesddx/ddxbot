@@ -14,7 +14,8 @@ const P = {
   p5:['Retro Camera Pack',8],        p6:['Camping Food Pack',10],
   p7:['Food Icons Collection',8],    p8:['Logo Starter Kit',12],
   p9:['Sticker Sheet Vol.1',9],      p10:['EXCLUSIVE Kitchen Scene',75],
-  p11:['FREE Watermelon SVG',0]
+  p11:['FREE Watermelon SVG',0],
+  p12:['Test Design Pack',1]
 };
 const BSC_USDT='0x55d398326f99059fF775485246999027B3197955';
 const SOL_USDT='EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v';
